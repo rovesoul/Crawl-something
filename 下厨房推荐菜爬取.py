@@ -21,6 +21,6 @@ for food in list_foods:
     # print(yuansu.text)
     menus.append([i,nametrue,weburl,yuansus])#注意多个元素添加，小括号里要有中括号
     i=i+1
-    # print(str(i),'············')
+
 print('fin')
 print(menus)
