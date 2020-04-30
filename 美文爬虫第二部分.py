@@ -39,7 +39,7 @@ headers = {
 
 
 # 创建Mysql的 connection连接,passowrd换成自己的
-conn = connect(host='localhost', port=3306, database='meiwen', user='root', password='jazzsolo', charset='utf8')
+conn = connect(host='localhost', port=3306, database='meiwen', user='root', password='112212', charset='utf8')
 # 获取cursor对象
 cs1 = conn.cursor()
 
