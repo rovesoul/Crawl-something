@@ -23,7 +23,7 @@ offset = 0
 Maxoffset = 16829
 
 # 创建connection连接
-conn = connect(host='localhost', port=3306, database='meiwen', user='root',password='jazzsolo', charset='utf8')
+conn = connect(host='localhost', port=3306, database='meiwen', user='root',password='111222', charset='utf8')
 # 获取cursor对象
 cs1 = conn.cursor()
 
